@@ -13,5 +13,3 @@ for number in range(1,301):
         print ("Brown")
     else:
         print(number)
-
-
